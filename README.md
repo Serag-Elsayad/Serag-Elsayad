@@ -4,9 +4,9 @@
 # Hi there, I'm Serag ElSayad 👋
 
 
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Serag ElSayad Banner">
-</div>
+<a href="https://www.liuxunzhuo.com/llm-routing/">
+  <img width="1536" height="729" alt="lci" src="https://github.com/user-attachments/assets/82faa233-4f32-494f-b02c-a97f8effb656" />
+</a>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
 
