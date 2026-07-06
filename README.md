@@ -2,13 +2,10 @@
 <div align="center">
 
 # Hi there, I'm Serag ElSayad 👋
+
+
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png"
-  alt="Serag ElSayad Banner"
-  width="100%" />
-
+  <img src="./assets/banner.png" width="100%" alt="Serag ElSayad Banner">
 </div>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
